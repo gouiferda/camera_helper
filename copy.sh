@@ -2,7 +2,7 @@
 
 sourceDir="/Volumes/EOS_DIGITAL/"
 sourceFolderDir="DCIM"
-destDir="/Users/space/Desktop/camera/data/"
+destDir="/Users/space/Desktop/camera_helper/data/"
 datetime=$(date '+%Y-%m-%d_%H-%M-%S')
 
 sourceFullDir="$sourceDir$sourceFolderDir"
